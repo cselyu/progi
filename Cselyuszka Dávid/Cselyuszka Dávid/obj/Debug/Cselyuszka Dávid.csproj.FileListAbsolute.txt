@@ -1,0 +1,6 @@
+C:\Users\Tanuló\Desktop\Cselyuszka Dávid\Cselyuszka Dávid\bin\Debug\Cselyuszka Dávid.exe.config
+C:\Users\Tanuló\Desktop\Cselyuszka Dávid\Cselyuszka Dávid\bin\Debug\Cselyuszka Dávid.exe
+C:\Users\Tanuló\Desktop\Cselyuszka Dávid\Cselyuszka Dávid\bin\Debug\Cselyuszka Dávid.pdb
+C:\Users\Tanuló\Desktop\Cselyuszka Dávid\Cselyuszka Dávid\obj\Debug\Cselyuszka Dávid.csprojResolveAssemblyReference.cache
+C:\Users\Tanuló\Desktop\Cselyuszka Dávid\Cselyuszka Dávid\obj\Debug\Cselyuszka Dávid.exe
+C:\Users\Tanuló\Desktop\Cselyuszka Dávid\Cselyuszka Dávid\obj\Debug\Cselyuszka Dávid.pdb
